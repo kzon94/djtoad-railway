@@ -1,4 +1,4 @@
-# DJ Toad (Server VPS Railway.app) 🎧🐸
+# DJ Toad (Host VPS Railway.app) 🎧🐸
 
 ![Logo de djtoad](djtoad-railway.jpg)
 
