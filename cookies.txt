@@ -2,6 +2,31 @@
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
-#NECESITAS GENERAR ESTE ARCHIVO PARA AUTENTICARTE
+# NECESITAS GENERAR ESTE ARCHIVO PARA AUTENTICARTE!!!
 
-.youtube.com
+# Puedes descargar tu archivo de cookies de tu sesión iniciada en YouTube utilizando la extensión Get Cookies.txt
+# Usa esta u otras herramientas similares disponibles para tu navegador.
+
+#el contenido de cookies.txt tiene que tener un formato parecido al siguente:
+
+.youtube.com    TRUE    /   TRUE    1774979626  PREF    tz=Europe.Berlin&f5=40000&f7=200
+.youtube.com    TRUE    /   FALSE   1774561633  SID your_sid_here
+.youtube.com    TRUE    /   TRUE    1774561633  __Secure-1PSID  your_secure1psid_here
+.youtube.com    TRUE    /   TRUE    1774561633  __Secure-3PSID  your_secure3psid_here
+.youtube.com    TRUE    /   FALSE   1774561633  HSID    your_hsid_here
+.youtube.com    TRUE    /   TRUE    1774561633  SSID    your_ssid_here
+.youtube.com    TRUE    /   FALSE   1774561633  APISID  your_apisid_here
+.youtube.com    TRUE    /   TRUE    1774561633  SAPISID your_sapisid_here
+.youtube.com    TRUE    /   TRUE    1774561633  __Secure-1PAPISID   your_secure1papisid_here
+.youtube.com    TRUE    /   TRUE    1774561633  __Secure-3PAPISID   your_secure3papisid_here
+.youtube.com    TRUE    /   TRUE    1771955620  __Secure-1PSIDTS    your_secure1psidts_here
+.youtube.com    TRUE    /   TRUE    1771955620  __Secure-3PSIDTS    your_secure3psidts_here
+.youtube.com    TRUE    /   TRUE    1774979621  LOGIN_INFO  your_logininfo_here
+.youtube.com    TRUE    /   TRUE    1772966214  __Secure-YEC    your_secure_yec_here
+.youtube.com    TRUE    /   FALSE   1740419635  ST-3opvp5   your_session_logininfo_here
+.youtube.com    TRUE    /   FALSE   1771955630  SIDCC   your_sidcc_here
+.youtube.com    TRUE    /   TRUE    1771955630  __Secure-1PSIDCC    your_secure1psidcc_here
+.youtube.com    TRUE    /   TRUE    1771955630  __Secure-3PSIDCC    your_secure3psidcc_here
+.youtube.com    TRUE    /   TRUE    1774547621  VISITOR_PRIVACY_METADATA    your_privacy_metadata_here
+.youtube.com    TRUE    /   TRUE    1755893858  __Secure-ROLLOUT_TOKEN  your_rollout_token_here
+.youtube.com    TRUE    /   TRUE    0   YSC your_ysc_here
