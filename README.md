@@ -1,6 +1,6 @@
 # DJ Toad (Via server VTC Railway.app) 🎧🐸
 
-![Logo de djtoad](djtoad.jpg)
+![Logo de djtoad](djtoad-railway.jpg)
 
 DJ Toad es un bot de Discord diseñado para reproducir música en tu servidor. Se integra con YouTube Music para buscar canciones y utiliza **yt-dlp** y **FFmpeg** para la reproducción de audio.
 
