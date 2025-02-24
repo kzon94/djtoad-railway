@@ -2,9 +2,9 @@
 
 ![Logo de djtoad](djtoad-railway.jpg)
 
-DJ Toad es un bot de Discord diseñado para reproducir música en tu servidor. Se integra con YouTube Music para buscar canciones y utiliza **yt-dlp** y **FFmpeg** para la reproducción de audio.
+**DJ Toad** es un bot de Discord diseñado para reproducir música en tu servidor. Se integra con YouTube Music para buscar canciones y utiliza **yt-dlp** y **FFmpeg** para la reproducción de audio. Este bot permite a los usuarios de tu servidor disfrutar de una amplia biblioteca musical directamente desde YouTube, proporcionando una experiencia de escucha fluida y de alta calidad.
 
-Este README describe cómo está implementado el proyecto y cómo desplegarlo en [Railway](https://railway.app/) utilizando un **Dockerfile** para poder utilizar el servidor virtual gratuito y que el bot sea consistente.
+Este README describe cómo está implementado el proyecto y cómo desplegarlo en Railway utilizando un **Dockerfile** para poder utilizar el servidor virtual gratuito y asegurar que el bot sea consistente. **Railway.app** ofrece un VPS gratuito para proyectos de prueba, lo que permite a los desarrolladores experimentar y probar sus aplicaciones sin costo alguno. La combinación de Docker y Railway garantiza que DJ Toad se ejecute en un entorno controlado, con una configuración reproducible y fácil de mantener, asegurando así que el bot funcione de forma confiable y consistente en todo momento.
 
 ---
 
