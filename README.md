@@ -147,6 +147,7 @@ Asegúrate de definir en Railway (o en tu `.env` local) al menos:
 - **ytmusicapi**: Para buscar y manejar información musical de YouTube Music.  
 - **yt-dlp**: Para extraer y descargar la pista de audio de YouTube.  
 - **FFmpeg**: Necesario para la reproducción de audio en Discord.
+- **Gifs**: Las ranitas simpáticas son de @abi.toads
 
 **Autor**:  
 - Nombre: Victor Belinchón  
