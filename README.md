@@ -1,4 +1,4 @@
-# DJ Toad (Via server VTC Railway.app) 🎧🐸
+# DJ Toad (Server VPS Railway.app) 🎧🐸
 
 ![Logo de djtoad](djtoad-railway.jpg)
 
